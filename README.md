@@ -1,5 +1,5 @@
 blueprint_test_site
 ===================
 
-Тестовый сайт с использованием фреймворка Blueprint CSS
-Chebatiuk VS |WebCarver|2014
+<h3>Тестовый сайт с использованием фреймворка Blueprint CSS</h3>
+<h4>Chebatiuk VS |WebCarver|2014</h4>
